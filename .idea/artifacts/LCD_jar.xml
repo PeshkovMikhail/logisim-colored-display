@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="LCD:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LCD_jar</output-path>
+    <root id="root">
+      <element id="archive" name="LCD.jar">
+        <element id="module-output" name="LCD" />
+      </element>
+      <element id="file-copy" path="$USER_HOME$/Downloads/logisim-generic-2.7.1.jar" />
+    </root>
+  </artifact>
+</component>
